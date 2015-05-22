@@ -1,0 +1,18 @@
+{
+  "name": "bubbles",
+  "version": "0.0.0",
+  "homepage": "https://github.com/caneruguz/bubbles",
+  "authors": [
+    "Caner Uguz <caneruguz@gmail.com>"
+  ],
+  "description": "Bubbly animations",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
